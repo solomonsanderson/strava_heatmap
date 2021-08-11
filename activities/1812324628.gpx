@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2018-08-29T13:48:12Z</time>
+ </metadata>
+ <trk>
+  <name>Afternoon Ride</name>
+  <type>1</type>
+  <trkseg>
+   <trkpt lat="50.9615470" lon="-0.9759150">
+    <ele>156.1</ele>
+    <time>2018-08-29T13:48:12Z</time>
+   </trkpt>
+   <trkpt lat="50.9735420" lon="-0.9669900">
+    <ele>241.8</ele>
+    <time>2018-08-29T14:24:26Z</time>
+   </trkpt>
+   <trkpt lat="50.9735630" lon="-0.9668500">
+    <ele>242.0</ele>
+    <time>2018-08-29T14:24:28Z</time>
+   </trkpt>
+   <trkpt lat="50.9735150" lon="-0.9668270">
+    <ele>242.0</ele>
+    <time>2018-08-29T14:24:29Z</time>
+   </trkpt>
+   <trkpt lat="50.9735410" lon="-0.9668410">
+    <ele>242.0</ele>
+    <time>2018-08-29T14:24:32Z</time>
+   </trkpt>
+   <trkpt lat="50.9737140" lon="-0.9669340">
+    <ele>242.0</ele>
+    <time>2018-08-29T14:26:49Z</time>
+   </trkpt>
+   <trkpt lat="50.9611480" lon="-0.9781240">
+    <ele>116.5</ele>
+    <time>2018-08-29T14:49:25Z</time>
+   </trkpt>
+   <trkpt lat="50.9612450" lon="-0.9777530">
+    <ele>118.1</ele>
+    <time>2018-08-29T14:49:27Z</time>
+   </trkpt>
+   <trkpt lat="50.9612180" lon="-0.9779750">
+    <ele>118.1</ele>
+    <time>2018-08-29T14:49:28Z</time>
+   </trkpt>
+   <trkpt lat="50.9612240" lon="-0.9780940">
+    <ele>118.1</ele>
+    <time>2018-08-29T14:49:29Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

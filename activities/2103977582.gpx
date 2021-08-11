@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2019-01-26T10:50:52Z</time>
+ </metadata>
+ <trk>
+  <name>Morning Ride</name>
+  <type>1</type>
+  <trkseg>
+   <trkpt lat="50.8364490" lon="-1.0658310">
+    <ele>4.2</ele>
+    <time>2019-01-26T10:50:52Z</time>
+   </trkpt>
+   <trkpt lat="50.8344130" lon="-1.0585920">
+    <ele>3.8</ele>
+    <time>2019-01-26T10:53:28Z</time>
+   </trkpt>
+   <trkpt lat="50.8342900" lon="-1.0581490">
+    <ele>2.2</ele>
+    <time>2019-01-26T10:53:30Z</time>
+   </trkpt>
+   <trkpt lat="50.8343340" lon="-1.0581030">
+    <ele>1.1</ele>
+    <time>2019-01-26T10:53:31Z</time>
+   </trkpt>
+   <trkpt lat="50.8343430" lon="-1.0582820">
+    <ele>2.3</ele>
+    <time>2019-01-26T10:53:32Z</time>
+   </trkpt>
+   <trkpt lat="50.8342880" lon="-1.0583350">
+    <ele>4.9</ele>
+    <time>2019-01-26T10:53:33Z</time>
+   </trkpt>
+   <trkpt lat="50.8342720" lon="-1.0582950">
+    <ele>4.9</ele>
+    <time>2019-01-26T10:53:34Z</time>
+   </trkpt>
+   <trkpt lat="50.8342580" lon="-1.0582000">
+    <ele>3.6</ele>
+    <time>2019-01-26T10:53:36Z</time>
+   </trkpt>
+   <trkpt lat="50.8342380" lon="-1.0581480">
+    <ele>3.9</ele>
+    <time>2019-01-26T10:53:38Z</time>
+   </trkpt>
+   <trkpt lat="50.8342120" lon="-1.0581110">
+    <ele>4.2</ele>
+    <time>2019-01-26T10:53:39Z</time>
+   </trkpt>
+   <trkpt lat="50.8341860" lon="-1.0580530">
+    <ele>3.5</ele>
+    <time>2019-01-26T10:53:41Z</time>
+   </trkpt>
+   <trkpt lat="50.8341570" lon="-1.0579850">
+    <ele>4.1</ele>
+    <time>2019-01-26T10:53:42Z</time>
+   </trkpt>
+   <trkpt lat="50.8341300" lon="-1.0579510">
+    <ele>5.4</ele>
+    <time>2019-01-26T10:53:43Z</time>
+   </trkpt>
+   <trkpt lat="50.8341190" lon="-1.0578430">
+    <ele>3.3</ele>
+    <time>2019-01-26T10:53:44Z</time>
+   </trkpt>
+   <trkpt lat="50.8340730" lon="-1.0577260">
+    <ele>3.1</ele>
+    <time>2019-01-26T10:53:47Z</time>
+   </trkpt>
+   <trkpt lat="50.8340410" lon="-1.0576810">
+    <ele>3.3</ele>
+    <time>2019-01-26T10:53:48Z</time>
+   </trkpt>
+   <trkpt lat="50.8340010" lon="-1.0576260">
+    <ele>3.7</ele>
+    <time>2019-01-26T10:53:49Z</time>
+   </trkpt>
+   <trkpt lat="50.8103280" lon="-1.0539730">
+    <ele>2.4</ele>
+    <time>2019-01-26T11:18:09Z</time>
+   </trkpt>
+   <trkpt lat="50.8104510" lon="-1.0540330">
+    <ele>2.6</ele>
+    <time>2019-01-26T11:18:35Z</time>
+   </trkpt>
+   <trkpt lat="50.8104440" lon="-1.0539880">
+    <ele>2.6</ele>
+    <time>2019-01-26T11:19:02Z</time>
+   </trkpt>
+   <trkpt lat="50.8104180" lon="-1.0539530">
+    <ele>2.4</ele>
+    <time>2019-01-26T11:19:09Z</time>
+   </trkpt>
+   <trkpt lat="50.8104070" lon="-1.0539120">
+    <ele>2.4</ele>
+    <time>2019-01-26T11:19:14Z</time>
+   </trkpt>
+   <trkpt lat="50.8105660" lon="-1.0539000">
+    <ele>2.0</ele>
+    <time>2019-01-26T11:19:56Z</time>
+   </trkpt>
+   <trkpt lat="50.8105370" lon="-1.0539010">
+    <ele>2.1</ele>
+    <time>2019-01-26T11:20:00Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

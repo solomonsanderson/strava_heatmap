@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-05-16T17:34:49Z</time>
+ </metadata>
+ <trk>
+  <name>Evening Ride</name>
+  <type>1</type>
+  <trkseg>
+   <trkpt lat="50.8106430" lon="-1.0537840">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:49Z</time>
+   </trkpt>
+   <trkpt lat="50.8106440" lon="-1.0537800">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:50Z</time>
+   </trkpt>
+   <trkpt lat="50.8106370" lon="-1.0537820">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:51Z</time>
+   </trkpt>
+   <trkpt lat="50.8106270" lon="-1.0537820">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:52Z</time>
+   </trkpt>
+   <trkpt lat="50.8106270" lon="-1.0537810">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:53Z</time>
+   </trkpt>
+   <trkpt lat="50.8106300" lon="-1.0537890">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:54Z</time>
+   </trkpt>
+   <trkpt lat="50.8106320" lon="-1.0537990">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:55Z</time>
+   </trkpt>
+   <trkpt lat="50.8106230" lon="-1.0538130">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:57Z</time>
+   </trkpt>
+   <trkpt lat="50.8106200" lon="-1.0538160">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:58Z</time>
+   </trkpt>
+   <trkpt lat="50.8106160" lon="-1.0538180">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:34:59Z</time>
+   </trkpt>
+   <trkpt lat="50.8106130" lon="-1.0538200">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:35:00Z</time>
+   </trkpt>
+   <trkpt lat="50.8106050" lon="-1.0538220">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:35:02Z</time>
+   </trkpt>
+   <trkpt lat="50.8105980" lon="-1.0538170">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:35:04Z</time>
+   </trkpt>
+   <trkpt lat="50.8105980" lon="-1.0538160">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:35:05Z</time>
+   </trkpt>
+   <trkpt lat="50.8105980" lon="-1.0538160">
+    <ele>2.0</ele>
+    <time>2020-05-16T17:35:06Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
